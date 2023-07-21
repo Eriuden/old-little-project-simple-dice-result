@@ -6,6 +6,7 @@ function diceFace(){
 
     //Il faut s'y prendre d'une manière un peu détournée
     //avec .length il récupère juste l'index
+    //donc: de 0 à 5
     //donc on lui demande d'afficher l'array selon l'index
     //du coup il mettra la valeur qu'il aura pioché au lieu de son index
 
